@@ -39,6 +39,7 @@ LET'S STUDY C🫥DING!
 ## 🫥 앞으로 추가적으로 공부를 해야할 것
 
 <h5><ul>
+<li>reconciliation & Preserving and Resetting State </li>
 <li>인스턴스란?</li>
 <li>등등</li>
 </ul></h5>
