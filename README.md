@@ -41,7 +41,11 @@ LET'S STUDY C🫥DING!
 <h5><ul>
 <li>reconciliation & Preserving and Resetting State </li>
 <li>인스턴스란?</li>
-<li>등등</li>
+<li>가상 돔</li>
+<li>render</li>
+<li>reference equaility 공부</li>
+
+
 </ul></h5>
 
 ## 🫡 참고 및 도움
